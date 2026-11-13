@@ -1,0 +1,25 @@
+{
+  "release": "2.0.0",
+  "python_tests": 13,
+  "python_pass": true,
+  "javascript_parse_pass": true,
+  "view_render_and_action_wiring": {
+    "project": "thunderdome",
+    "rendered": true,
+    "wiredActions": 2,
+    "uniqueIds": 6,
+    "standaloneImports": true
+  },
+  "mobile_viewport": {
+    "project": "thunderdome",
+    "scrollWidth": 375,
+    "width": 375,
+    "heading": "Let the models fight fairly."
+  },
+  "platform": "Linux, Python 3.12, Chrome",
+  "browser_check": "Primary workflow exercised manually through the actual interface; see UI_GUIDE.md.",
+  "limitations": [
+    "No physical mobile device testing",
+    "Windows launcher and Docker execution not verified here"
+  ]
+}

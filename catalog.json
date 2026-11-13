@@ -1,0 +1,11 @@
+[
+  {
+    "id": "thunderdome",
+    "name": "Research Thunderdome",
+    "category": "Automated experimentation",
+    "tagline": "Every result must survive its own audit.",
+    "accent": "#f2a36f",
+    "number": "10",
+    "module": "automl"
+  }
+]

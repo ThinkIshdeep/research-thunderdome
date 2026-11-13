@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:07,000
+Specify the experiment
+Choose an installed sklearn benchmark, split seed and finite trial budget for three model families.
+
+2
+00:00:07,000 --> 00:00:14,000
+Reject a leakage fixture
+The audit refuses preprocessing before splitting. The runner accepts only allowlisted configurations.
+
+3
+00:00:14,000 --> 00:00:21,000
+Run actual training trials
+The leaderboard records validation scores and runtimes. The final test is evaluated after selecting the winner.
+
